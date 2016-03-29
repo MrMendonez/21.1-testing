@@ -1,0 +1,25 @@
+{
+  "name": "21.1-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMendonez/21.1-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrMendonez/21.1-testing/issues"
+  },
+  "homepage": "https://github.com/MrMendonez/21.1-testing#readme",
+  "dependencies": {
+    "chromedriver": "^2.21.2",
+    "jasmine": "^2.4.1",
+    "protractor": "^3.2.2",
+    "webdriver-manager": "^9.0.0"
+  }
+}
